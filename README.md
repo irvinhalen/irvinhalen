@@ -9,8 +9,6 @@
 
 ##### [Pretty Projects](dorky-directory.md) 💫
 
-The projects I am working on can be categorized into these 5️⃣:
-
 Glyph | Category | Description
 -|-|-
 🔥|**Tutorial Heck**|Travel the depths of tutorial heck by following videos or articles
