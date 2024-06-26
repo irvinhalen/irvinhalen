@@ -17,4 +17,4 @@ Glyph | Category | Description
 🗡️|**Training Arc**|Learn skills by going through a training arc by creating projects that are small in scope
 ⚡|**Mini Boss**|Fight the mini boss with the skills learned by creating projects that are large in scope
 ☄️|**Final Boss**|Challenge the final boss with the skills learned by creating projects that are huge in scope
-✨|**Written Runes**|The written runes are enchiridions made to retain the knowledge of felling a mini boss or smiting a final boss
+✨|**Written Runes**|The written runes are enchiridions with the knowledge of felling a mini boss or smiting a final boss
