@@ -7,9 +7,9 @@
 - 🌬️ Working as a Software Engineer at Bluewind Asia
 
 
-##### Pretty Projects 💫
+##### [Pretty Projects](dorky-directory.md) 💫
 
-The projects I am working can be categorized into these 5️⃣:
+The projects I am working on can be categorized into these 5️⃣:
 
 Glyph | Category | Description
 -|-|-
