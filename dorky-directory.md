@@ -1,6 +1,6 @@
 ### Dorky Directory 🤓
 
-If you're interested check out the projects I am working on.
+Interested? Check out the projects I am working on.
 
 - 🔥 Tutorial Heck
     - [Budget](https://github.com/koyaIrvin/budget-react)
