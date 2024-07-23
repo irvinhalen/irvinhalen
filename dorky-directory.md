@@ -3,8 +3,9 @@
 Interested? Check out the projects I am working on.
 
 - 🔥 Tutorial Heck
-    - [Budget](https://github.com/koyaIrvin/budget-react)
-    - [Task Manager](https://github.com/koyaIrvin/task-manager)
+    - [nextjs-dashboard](https://github.com/koyaIrvin/nextjs-dashboard)
+    - [budget-react](https://github.com/koyaIrvin/budget-react)
+    - [task-manager](https://github.com/koyaIrvin/task-manager)
 - 🗡️ Training Arc
     - [koyaIrvin](https://github.com/koyaIrvin/koyaIrvin)
     - [Bouquet Bloom](https://github.com/koyaIrvin/bouquet-bloom)
