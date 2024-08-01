@@ -3,8 +3,8 @@
 
 ##### Introducing Irvin 🫧
 
-- 📜 Graduated Bachelor of Science in Information and Communications Technology at the University of San Carlos
-- 🌬️ Working as a Software Engineer at Bluewind Asia
+- 📜 Graduated Bachelor of Science in Information and Communications Technology at the [University of San Carlos](https://usc.edu.ph)
+- 🌬️ Working as a Software Engineer at [Bluewind Asia](https://bluewind-asia.com)
 
 
 ##### [Pretty Projects](dorky-directory.md) 💫
