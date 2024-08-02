@@ -7,7 +7,6 @@ Interested? Check out the projects I am working on.
     - [budget-react](https://github.com/koyaIrvin/budget-react)
     - [task-manager](https://github.com/koyaIrvin/task-manager)
 - 🗡️ Training Arc
-    - [koyaIrvin](https://github.com/koyaIrvin/koyaIrvin)
     - [Bouquet Bloom](https://github.com/koyaIrvin/bouquet-bloom)
     - [Aqua-Air H2O](https://github.com/koyaIrvin/aqua-air-h2o)
     - [Aqua-Air](https://github.com/koyaIrvin/aqua-air)
@@ -23,5 +22,6 @@ Interested? Check out the projects I am working on.
         - [backend](https://github.com/koyaIrvin/enb_backend)
     - [Administrative and Bookkeeping System of ARCC](https://github.com/koyaIrvin/arccinc)
 - ✨ Written Runes
+    - [koyaIrvin](https://github.com/koyaIrvin/koyaIrvin)
     - [Tips 'n' Tricks](https://github.com/koyaIrvin/tips-n-tricks)
     - [known-notes](https://github.com/koyaIrvin/known-notes)
