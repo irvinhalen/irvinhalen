@@ -7,6 +7,7 @@ Interested? Check out the projects I am working on.
     - [budget-react](https://github.com/irvinhalen/budget-react)
     - [task-manager](https://github.com/irvinhalen/task-manager)
 - 🗡️ Training Arc
+    - [irvinhalen.github.io](https://github.com/irvinhalen/irvinhalen.github.io)
     - [Bouquet Bloom](https://github.com/irvinhalen/bouquet-bloom)
     - [Aqua-Air H2O](https://github.com/irvinhalen/aqua-air-h2o)
     - [Aqua-Air](https://github.com/irvinhalen/aqua-air)
