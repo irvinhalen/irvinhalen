@@ -1,6 +1,6 @@
-### Dorky Directory 🤓
+### Dorky Directory ☝️🤓
 
-Interested? Check out the projects I am worked on.
+Interested? Check out the projects I worked on.
 
 - 🔥 Tutorial Heck
   - [nextjs-dashboard](https://github.com/irvinhalen/nextjs-dashboard)
